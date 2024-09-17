@@ -1,0 +1,107 @@
+.logo {
+    height: 400px;
+    margin-left: 60px;
+    position: relative;
+}
+
+.child {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -200px;
+    position: relative;
+}
+
+.check {
+    display: flex;
+    align-items: center;
+    height: 30px;
+    margin-top: -200px;
+    margin-left: 10px;
+    background-color: white;
+    font-weight: 600;
+    border-color: grey;
+    position: relative;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    padding: 35px;
+    margin-top: -40px;
+    margin-right: -35px;
+    position: relative;
+}
+
+.bio {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-right: 95px;
+    margin-top: -35px;
+    margin-bottom: -0px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 70px;
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+#pic {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    background-color: blue;
+    margin-bottom: 20px;
+}
+
+.help {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin-top: 0px;
+    margin-left: -120px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.grey {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: -15px;
+    color: grey;
+}
+
+.stories {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+
+.stories div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+span {
+    font-weight: 600;
+    color: black;
+}
